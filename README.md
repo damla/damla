@@ -1,14 +1,7 @@
-<style>
-  .container {
-    display:flex;
+<div style="display:flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-  }
-</style>
-
-
-<div class="container">
+    align-items: center;">
   
   <div class="content">
     <h3>Hi there 👋</h3>
