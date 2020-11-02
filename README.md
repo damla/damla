@@ -6,5 +6,4 @@
 - 📫 How to reach me: me@damlakoksal.com
 - ⚡ Fun fact: Cats will qonquer the world someday. 😾
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=damlakoksal&show_icons=true&theme=tokyonight" alt="damlakoksal" /></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=damlakoksal&show_icons=true&theme=tokyonight" alt="damlakoksal" />
