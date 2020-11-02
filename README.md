@@ -1,7 +1,4 @@
-<div style="display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;">
+<div style="background-color:black">
   
   <div class="content">
     <h3>Hi there 👋</h3>
