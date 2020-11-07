@@ -5,7 +5,7 @@
 🔭 I’m currently working on React JS and .NET Core.<br/>
 🌱 I’m currently learning E-Commerce fundamentals.<br/>
 🤔 I’m looking for help with React JS, tutorials with small projects would be really great!<br/>
-📫 How to reach me: me@damlakoksal.com<br/>
+📫 How to reach me: damlakoksal@outlook.com<br/>
 ⚡ Fun fact: Cats will qonquer the world someday. 😾</p>
 </p>
 <br/>
