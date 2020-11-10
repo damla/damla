@@ -10,7 +10,7 @@
 </p>
 <br/>
  <p align="center" > 
-  <img class="image" src="https://github-readme-stats.vercel.app/api?username=damlakoksal&show_icons=true&theme=tokyonight" alt="damlakoksal"/>
+  <img class="image" src="https://github-readme-stats.vercel.app/api?username=damla&show_icons=true&theme=tokyonight" alt="damlakoksal"/>
  </p>
 <p align="center">
 <a href="https://twitter.com/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damlakoksal" height="30" width="30" /></a>
