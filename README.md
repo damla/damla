@@ -5,7 +5,6 @@
 🤔 I’m looking for help with React JS and tutorials with small projects would be really great!<br/>
 📫 How to reach me: damlakoksal@outlook.com<br/>
 ⚡ Fun fact: Cats will qonquer the world someday. 😾</p>
-<br/>
 
 <img class="image" src="https://github-readme-stats.vercel.app/api?username=damla&show_icons=true&theme=tokyonight" alt="damlakoksal"/>
 
