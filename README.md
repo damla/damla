@@ -1,8 +1,7 @@
 <h2>Hi there, I'm Damla 👋</h2>
 
 🔭 I’m currently working on React JS and .NET Core.<br/>
-🌱 I’m currently learning E-Commerce fundamentals.<br/>
-📫 How to reach me: damlakoksal@outlook.com<br/>
+📫 How to reach me: me@damlakoksal.com<br/>
 ⚡ Fun fact: Cats will qonquer the world someday. 😾</p>
 
 <img class="image" src="https://github-readme-stats.vercel.app/api?username=damla&show_icons=true&theme=tokyonight" alt="damlakoksal"/>
