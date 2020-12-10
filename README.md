@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damla</h1>
 <h3 align="center">A passionate junior fullstack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damla&label=Profile%20views&color=0e75b6&style=flat" alt="damla" /> </p>
-
 - 🔭 I’m currently working on [Karsal](https://github.com/damla/karsal)
 
 - 🌱 I’m currently learning **Next JS, .NET 5, MongoDB, Fastify**
