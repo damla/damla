@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Karsal](https://github.com/damla/karsal)
 
-- 🌱 I’m currently learning **Next JS, .NET 5, MongoDB, Fastify**
+- 🌱 I’m currently learning **Next JS, .NET 5, MongoDB**
 
 - 👯 I’m looking to collaborate on [Source Pocket](https://github.com/sdtrdev/source-pocket)
 
