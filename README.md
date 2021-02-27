@@ -1,19 +1,36 @@
-<h1 align="center">Hi 👋, I'm Damla</h1>
-<h3>A passionate junior fullstack developer from Turkey</h3>
+# Hi 👋, I'm Damla Köksal!
 
-- 🔭 I’m currently working on [Karsal](https://github.com/damla/karsal)
+### A passionate Full-Stack Developer from Turkey 🇹🇷
 
-- 🌱 I’m currently learning **Next JS, .NET 5, MongoDB**
+- 🛍 I'm co-founder of [Clou](https://clou.shop) (coming soon❕)
 
-- 👯 I’m looking to collaborate on [Source Pocket](https://github.com/sdtrdev/source-pocket)
+- 🔭 I’m currently working on [a corporate website project](https://github.com/damla/karsal) as a playground.
 
-- 📝 I regularly write articles on [https://dev.to/damla](https://dev.to/damla)
+- 🌱 I’m currently learning **JAMSTACK, NextJS, MongoDB, .NET 5, SASS and Shopify**
 
-- 📫 How to reach me **me@damlakoksal.com**
+- 👯 I’m looking collaborate on [Source Pocket!](https://github.com/sdtrdev/source-pocket)
+
+- 📝 I write articles on [DEV Community.](https://dev.to/damla)
+
+- 📫 How to reach me ➡️ **me@damlakoksal.com**
 <p>
+  
+---
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
+## Projects
+
+|           Project Name           | Technologies Used                                                                                                       |        Status       |
+|:--------------------------------:|-------------------------------------------------------------------------------------------------------------------------|:-------------------:|
+|              Karsal              | - NextJS<br>- TypeScript<br>- MongoDB<br>- i18n localization router<br>- SASS Modules<br>- React Responsive<br>- Vercel | Still on Progress ⚠️ |
+|           Source Pocket          | - Docusaaurus v2<br>- ReactJS<br>- MDX<br>- Netlify                                                                     |       Active ✅      |
+|             SDTR.DEV             | - GatsbyJS<br>- MDX<br>- Styled Components<br>- GraphQL<br>- Cypress<br>- Netlify                                       |       Active ✅      |
+| Damla Köksal<br>Personal Website | - GatsbyJS<br>- MDX<br>- Vercel                                                                                         |       Active ✅      |
+|            Nishgt Blog           | - GatsbyJS<br>- MDX<br>- Netlify CMS<br>- Vercel                                                                        |       Active ✅      |
+|               Clou               | Shopify                                                                                                                 | Still on Progress ⚠️ |
+
+---
+
+<h3>Connect with Me</h3>
 <a href="https://codepen.io/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="damlakoksal" height="30" width="40" /></a>
 <a href="https://dev.to/damla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="damla" height="30" width="40" /></a>
 <a href="https://twitter.com/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damlakoksal" height="30" width="40" /></a>
@@ -22,7 +39,8 @@
 <a href="https://instagram.com/drinkingmyjava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drinkingmyjava" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="damlakoksal" height="30" width="40" /></a>
 <a href="https://discord.gg/P8GKTFp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="P8GKTFp" height="30" width="40" /></a>
-</p>
 
-<h3 align="center">Streak Counter 🔥</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damla&" alt="damla" /></p>
+---
+
+<h3>Streak Counter 🔥</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damla&" alt="damla" /></p>
