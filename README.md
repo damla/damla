@@ -22,7 +22,7 @@
 |           Project Name           | Technologies Used                                                                                                       |        Status       |
 |:--------------------------------:|-------------------------------------------------------------------------------------------------------------------------|:-------------------:|
 |              Karsal              | - NextJS<br>- TypeScript<br>- MongoDB<br>- i18n localization router<br>- SASS Modules<br>- React Responsive<br>- Vercel | Still on Progress ⚠️ |
-|           Source Pocket          | - Docusaaurus v2<br>- ReactJS<br>- MDX<br>- Netlify                                                                     |       Active ✅      |
+|           Source Pocket          | - Docusaurus v2<br>- ReactJS<br>- MDX<br>- Netlify                                                                     |       Active ✅      |
 |             SDTR.DEV             | - GatsbyJS<br>- MDX<br>- Styled Components<br>- GraphQL<br>- Cypress<br>- Netlify                                       |       Active ✅      |
 | Damla Köksal<br>Personal Website | - GatsbyJS<br>- MDX<br>- Vercel                                                                                         |       Active ✅      |
 |            Nishgt Blog           | - GatsbyJS<br>- MDX<br>- Netlify CMS<br>- Vercel                                                                        |       Active ✅      |
