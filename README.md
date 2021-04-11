@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a corporate website project](https://github.com/damla/karsal) as a playground.
 
-- 🌱 I’m currently learning **JAMSTACK, NextJS, MongoDB, .NET 5, SASS and Shopify**
+- 🌱 I’m currently learning **JAMSTACK, NextJS, MongoDB, GO, SASS and Shopify**
 
 - 👯 I’m looking collaborate on [Source Pocket!](https://github.com/sdtrdev/source-pocket)
 
@@ -45,5 +45,5 @@
 <h3>Github Stats</h3>
 <a href="https://github.com/damla">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=10&theme=algolia"/>
 </a>
