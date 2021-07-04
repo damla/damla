@@ -2,7 +2,7 @@
 
 ### A passionate Full-Stack Developer from Turkey 🇹🇷
 
-- 🛍 I'm co-founder of [Clou](https://clou.shop) (coming soon❕)
+- 🛍 Co-Founder @[Clou](https://clou.shop)
 
 - 🔭 I’m currently working on [a corporate website project](https://github.com/damla/karsal) as a playground.
 
