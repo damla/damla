@@ -1,22 +1,3 @@
-# Hi 👋, I'm Damla Köksal!
-
-### A passionate Full-Stack Developer from Turkey 🇹🇷
-
-- 🛍 Co-Founder @[Clou](https://clou.shop)
-
-- 🔭 I’m currently working on [a corporate website project](https://github.com/damla/karsal) as a playground.
-
-- 🌱 I’m currently learning **JAMSTACK, NextJS, MongoDB, GO, SASS and Shopify**
-
-- 👯 I’m looking collaborate on [Source Pocket!](https://github.com/sdtrdev/source-pocket)
-
-- 📝 I write articles on [DEV Community.](https://dev.to/damla)
-
-- 📫 How to reach me ➡️ **me@damlakoksal.com**
-<p>
-  
----
-
 ## Projects
 
 |           Project Name           | Technologies Used                                                                                                       |        Status       |
