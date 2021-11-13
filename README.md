@@ -1,30 +1,20 @@
 ## Projects
 
-|           Project Name           | Technologies Used                                                                                                       |        Status       |
-|:--------------------------------:|-------------------------------------------------------------------------------------------------------------------------|:-------------------:|
-|              Karsal              | - NextJS<br>- TypeScript<br>- MongoDB<br>- i18n localization router<br>- SASS Modules<br>- React Responsive<br>- Vercel | Still on Progress ⚠️ |
-|           Source Pocket          | - Docusaurus v2<br>- ReactJS<br>- MDX<br>- Netlify                                                                     |       Active ✅      |
-|             SDTR.DEV             | - GatsbyJS<br>- MDX<br>- Styled Components<br>- GraphQL<br>- Cypress<br>- Netlify                                       |       Active ✅      |
-| Damla Köksal<br>Personal Website | - GatsbyJS<br>- MDX<br>- Vercel                                                                                         |       Active ✅      |
-|            Nishgt Blog           | - GatsbyJS<br>- MDX<br>- Netlify CMS<br>- Vercel                                                                        |       Active ✅      |
-|               Clou               | Shopify                                                                                                                 | Still on Progress ⚠️ |
+|           Project Name<img width="441" height="1">           | Technologies Used        <img width="441" height="1">                                                                                               |        Links  <img width="441" height="1">     |
+|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
+|              Karsal              | - NextJS<br>- TypeScript<br>- MongoDB<br>- i18n localization router<br>- SASS Modules<br>- React Responsive<br>- Vercel | [📦 Repo](https://github.com/damla/karsal)<br>[🌐 Website](https://karsal.vercel.app) |
+|           Source Pocket          | - Docusaurus v2<br>- ReactJS<br>- MDX<br>- Netlify                                                                     |       [📦 Repo](https://github.com/Source-Pocket/source-pocket)<br>[🌐 Website](https://sourcepocket.io)      |
+|             SDTR.DEV             | - GatsbyJS<br>- MDX<br>- Styled Components<br>- GraphQL<br>- Cypress<br>- Netlify                                       |       [📦 Repo](https://github.com/sdtrdev/sdtr.dev)      |
+| Damla Köksal<br>Personal Website | - GatsbyJS<br>- MDX<br>- Vercel                                                                                         |       [📦 Repo](https://github.com/damla/damlakoksal-blog)<br>[🌐 Website](https://damlakoksal.com)      |
+|               Clou               | Shopify                                                                                                                 | [🌐 Website](https://clou.shop) |
+<br>
 
----
+## Github Stats
 
-<h3>Connect with Me</h3>
-<a href="https://codepen.io/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="damlakoksal" height="30" width="40" /></a>
-<a href="https://dev.to/damla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="damla" height="30" width="40" /></a>
-<a href="https://twitter.com/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damlakoksal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="damlakoksal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9434655" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9434655" height="30" width="40" /></a>
-<a href="https://instagram.com/drinkingmyjava" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="drinkingmyjava" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/damlakoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="damlakoksal" height="30" width="40" /></a>
-<a href="https://discord.gg/P8GKTFp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="P8GKTFp" height="30" width="40" /></a>
-
----
-
-<h3>Github Stats</h3>
 <a href="https://github.com/damla">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=10&theme=algolia"/>
+<img width="50" height="1">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50" height="1">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=10&theme=algolia"/>
+<img width="50" height="1">
 </a>
