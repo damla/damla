@@ -14,6 +14,6 @@
 ## Github Stats
 
 <a href="https://github.com/damla">
-<img height="231px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="231px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=10&theme=algolia"/>
+<img width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="230px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=10&theme=algolia"/>
 </a>
