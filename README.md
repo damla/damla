@@ -11,11 +11,10 @@
 |               Clou               | Shopify                                                                                                                 | [🌐 Website](https://clou.shop) |
 <br>
 
-<a href="https://app.daily.dev/damla"><img src="https://api.daily.dev/devcards/941f68fb75db4b2db3b99ab9ef33ac60.png?r=e0z" height="500px" align="right" alt="Damla Köksal's Dev Card"/></a>
 
 ## Github Stats
 
 <a href="https://github.com/damla">
-<img width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="230px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damla&layout=compact&langs_count=10&theme=algolia"/>
-</a>
+<p align="center">
+<img width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
