@@ -4,17 +4,10 @@
 
 |           Project Name<img width="441" height="1">           | Technologies Used        <img width="441" height="1">                                                                                               |        Links  <img width="441" height="1">     |
 |:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------:|
+|       NextJS w/App Router Starter       | - NextJS w/App Router<br>- NextAuth<br>- TypeScript<br>- Prettier<br>- Eslint<br>- Husky<br>- SwaggerUI<br>- Supabase<br>- Prisma ORM<br>- TailwindCSS<br>- Vercel | [📦 Repo](https://github.com/damla/nextjs-w-app-directory-starter)<br>[🌐 Website](https://nextjs-w-app-directory-starter.vercel.app/) |
 |              Karsal              | - NextJS<br>- TypeScript<br>- MongoDB<br>- i18n localization router<br>- SASS Modules<br>- React Responsive<br>- Vercel | [📦 Repo](https://github.com/damla/karsal)<br>[🌐 Website](https://karsal.vercel.app) |
 |           Source Pocket          | - Docusaurus v2<br>- ReactJS<br>- Algolia<br>- MDX<br>- Netlify                                                                     |       [📦 Repo](https://github.com/Source-Pocket/source-pocket)<br>[🌐 Website](https://sourcepocket.io)      |
 |             connEth             | - NextJS<br>- TypeScript<br>- TailwindCSS<br>- Moralis<br>- Prisma<br>- MetaMask<br>- Husky<br>- Lint Staged<br>- HeadlessUI<br>- Vercel                                       |       [📦 Repo](https://github.com/damla/connEth)      |
 | Damla Köksal<br>Personal Website | - GatsbyJS<br>- MDX<br>- Vercel                                                                                         |       [📦 Repo](https://github.com/damla/damlakoksal-blog)<br>[🌐 Website](https://damlakoksal.com)      |
 |               Clou               | Shopify                                                                                                                 | [🌐 Website](https://clou.shop) |
 <br>
-
-
-## Github Stats
-
-<a href="https://github.com/damla">
-<p align="center">
-<img width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
