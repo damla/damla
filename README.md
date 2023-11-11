@@ -1,4 +1,4 @@
-<a href="https://www.buymeacoffee.com/damlakoksal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/damlakoksal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br/>
 [![wakatime](https://wakatime.com/badge/user/8f4ce347-1002-4def-af2d-654fa5f7a4a3.svg)](https://wakatime.com/@8f4ce347-1002-4def-af2d-654fa5f7a4a3)
 
 ## Projects
